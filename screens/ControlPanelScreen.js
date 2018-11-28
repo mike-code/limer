@@ -28,7 +28,7 @@ class ControlPanelScreen extends React.Component
         {
             userData: {},
             spinner_running: false,
-            phone_no: '+64220477668',
+            phone_no: '',
             sms_code: '',
         }
     }

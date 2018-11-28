@@ -1,2 +1,2 @@
-# limer
-React Native Lime app
+# Limer
+Stop bullying iOS 9.x
